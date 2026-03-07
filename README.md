@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cavalheirog&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![snake animation](https://github.com/cavalheirog/cavalheirog/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 ###
