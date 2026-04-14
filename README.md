@@ -39,7 +39,7 @@ Systems Analysis and Development student focused on software development, buildi
 
 <p align="left">
 
-- 📌 <b><a href="https://github.com/cavalheirog/crud-produtos">Product CRUD System</a></b> (Python) <br>
+- 📌 <b><a href="https://github.com/cavalheirog/crud-produtos">Product CRUD System</a></b> <br>
 A complete CRUD application for product management, including create, read, update, and delete operations with database integration.
 
 <br>
