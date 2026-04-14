@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel 👋</h1>
+<h1 align="center">Hi, I'm Gabriel </h1>
 <h3 align="center">Software Development Student</h3>
 
 ###
@@ -42,7 +42,7 @@ Systems Analysis and Development student focused on software development, buildi
 - 📌 <b><a href="https://github.com/cavalheirog/crud-produtos">Product CRUD System</a></b> (Python + SQL) <br>
 A complete CRUD application for product management, including create, read, update, and delete operations with database integration.
 
-<br><br>
+<br>
 
 - 📌 <b><a href="https://github.com/cavalheirog/fundamentos-python">Python Fundamentals Projects</a></b> <br>
 Collection of small projects developed to practice core programming concepts, including a calculator, login system, and a basic banking CRUD.
