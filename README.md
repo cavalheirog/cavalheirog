@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel </h1>
+<h1 align="center">Hi, I'm Gabriel</h1>
 <h3 align="center">Systems Analysis and Development Student</h3>
 
 ###
@@ -11,15 +11,15 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
-Systems Analysis and Development student focused on software development, building practical projects to strengthen skills in programming, problem-solving, and modern technologies.
+I'm a Systems Analysis and Development student with experience in corporate environments and a strong interest in software development. I enjoy building practical projects that solve real problems, especially using Python, SQL, and relational databases. Currently, I'm focused on strengthening my backend development skills and expanding my knowledge through academic and personal projects.
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -35,17 +35,17 @@ Systems Analysis and Development student focused on software development, buildi
 
 ###
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">Projects</h3>
 
 <p align="left">
 
-- 📌 <b><a href="https://github.com/cavalheirog/crud-produtos">Product CRUD System</a></b> <br>
-A complete CRUD application for product management, including create, read, update, and delete operations.
+- <b><a href="https://github.com/cavalheirog/Barber-X">Barber-X</a></b> <br>
+A barbershop management system developed with Python and MySQL. Includes customer and administrator areas, appointment scheduling, service management, sales tracking, user authentication, and relational database integration.
 
 <br>
 
-- 📌 <b><a href="https://github.com/cavalheirog/fundamentos-python">Python Fundamentals Projects</a></b> <br>
-Collection of small projects developed to practice core programming concepts, including a calculator, login system, and a basic banking CRUD.
+- <b><a href="https://github.com/cavalheirog/crud-produtos">Product CRUD System</a></b> <br>
+A product management application developed in Python, featuring create, read, update, and delete operations through a terminal interface.
 
 </p>
 
